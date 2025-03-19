@@ -3,7 +3,7 @@ author: Jaji Pamarthi
 url: https://jpamarthi6.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   <div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1; max-width: 60%; font-size: 14px;">
+    <div style="flex: 1;">
       I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
       create seamless, intuitive, and trust-enhancing user experiences.<br><br>
 
