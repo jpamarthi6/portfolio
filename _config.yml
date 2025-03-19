@@ -2,14 +2,33 @@ title: Jaji Pamarthi
 author: Jaji Pamarthi
 url: https://jpamarthi6.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I'm a researcher and engineer passionate about human-machine interaction and user experience, specializing in UX strategy, research, and human-centered design. 
-  With a Ph.D. in Human Factors and experience at Motional and TORC Robotics, I’ve optimized KPIs, uncovered transparency gaps, and streamlined UX workflows to drive 
-  business impact.<br><br>
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
+      create seamless, intuitive, and trust-enhancing user experiences.<br><br>
 
-  At the intersection of data, design, and strategy, I create UX frameworks that enhance engagement, efficiency, and trust in automated systems. Let’s build experiences 
-  that don’t just function but thrive.<br><br>
-
-  Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation! 
+      I'm currently persusing my Ph.D. in Industrial Engineering (Human Factors) at University of Massachusetts Amherst, and working as a Rsearch Assitant at Human performance 
+      lab with Dr. Shannon C. Roberts, where I focus on understanding trust and perceptions of autonomous vehicles.<br><br>
+      
+      In Summer 2024, I worked as a UX Research Intern at TORC Robotics, leading stakeholder research, uncovering transparency gaps, and optimizing UX workflows for AV 
+      development. My work led to five key process improvements, streamlining operations and enhancing UX strategy. <br><br>
+      
+      In Fall 2022, I worked as a Quantitative Human-Computer Interaction Research Intern at Motional, conducting mixed-methods research, leveraging Python and R to analyze 
+      user cognition and optimize KPIs for AV usability and trust.<br><br>
+      
+      From 2020 to 2021, I worked as a Research Engineer Co-op at Ahold Delhaize USA, conducting qualitative research with grocery store stakeholders to identify pain 
+      points in automation adoption. <br><br>
+      
+      Prior to my PhD, I researched shared autonomy and adaptive human-machine systems under Dr. Jamison Heard at Rochester Institute of Technology, developing 
+      fuzzy-logic-based controllers for workload-adaptive automation. <br><br> 
+      
+      I have contributed to human-centered design in automation across academia and industry, focusing on trust, transparency, and usability in intelligent systems. 
+      Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation!
+    </div>
+    <div style="flex: 0 0 150px; margin-left: 20px;">
+      <img src="images/Jaji_Headshot.jpg" alt="Jaji Pamarthi" style="width: 100%; border-radius: 50%;">
+    </div>
+  </div>
 
 permalink: /:slug
 
