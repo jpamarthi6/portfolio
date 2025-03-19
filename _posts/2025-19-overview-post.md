@@ -4,24 +4,24 @@ title: 'Future of Trucking: HMI & Automation in Trucking'
 ---
 
 
-###Problem:
+### Problem:
 
 ---
 {: data-content="hr with text"}
 
-###Solution:
+### Solution:
 - point1[^2].
 - point2.
 
 ---
 {: data-content="hr with text"}
 
-###Study:
+### Study:
 
 ---
 {: data-content="hr with text"}
 
-###Publication: 
+### Publication: 
 
 
 
