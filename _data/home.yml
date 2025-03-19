@@ -53,6 +53,17 @@ old_project_entries:
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
 
+personal_entries:
+  - title: Personal
+    url: 
+    desc: |
+      other_topics:
+      - Designing for Diverse Users: Ensuring inclusive, accessible, and context-aware design in automated systems.
+      - Mentorship Culture: Supporting early-career researchers and fostering interdisciplinary collaboration.
+      - Scientific Communication: Making human factors, UX, and automation research more accessible across disciplines.
+      I also like making ceramics and photography!
+
+
 footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/jyothikapamarthi/
