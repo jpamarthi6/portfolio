@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Future of Trucking: HMI & Automation in Trucking'
+title: 'Mental Models of Adaptive Cruise Control'
 ---
 
 

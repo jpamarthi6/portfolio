@@ -20,24 +20,24 @@ project_entries:
     highlight: WIP
 
   - title: Pedestrian Hybrid Beacon (PHB)
-    url: PHB
+    url: phb
     desc: Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
 
   - title: Risk-ATTEND
-    url: Risk-ATTEND
+    url: risk-attend
     desc: Designed a behavior-driven training program, improving hazard detection through simulator testing in young drivers.
 
   - title: Mental Models of Adaptive Cruise Control
-    url: Mental-Models
+    url: mental-models
     desc: Investigated trust in Adaptive Cruise Control (ACC) and to refine UX strategies for automation onboarding, improving user confidence and adoption.
 
   - title: BikeSimulator
-    url: BikeSimulator
+    url: bikesimulator
     desc: Developed a virtual reality cycling simulator with Arduino sensors and Unity, enabling research on user behavior and immersive interaction design.
 
 old_project_entries:
   - title: RA at RIT
-    url: Fuzzy-logic
+    url: fuzzy-logic
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     # highlight: NEW
 
