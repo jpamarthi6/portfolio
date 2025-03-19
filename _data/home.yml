@@ -3,10 +3,10 @@ navbar_entries:
     url: /portfolio
 
   - title: Ceramics
-    url: blog
+    url: ceramics
 
   - title: Photography
-    url: blog
+    url: photo
 
 project_entries:
   - title: 'Future of Trucking: HMI & Automation in Trucking'
