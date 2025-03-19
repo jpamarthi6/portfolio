@@ -3,7 +3,7 @@ author: Jaji Pamarthi
 url: https://jpamarthi6.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
+    <div style="flex: 1; font-size: 12px;">
       I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
       create seamless, intuitive, and trust-enhancing user experiences.<br><br>
 
@@ -25,7 +25,7 @@ description: > # description of the site (multiple lines allowed)
       I have contributed to human-centered design in automation across academia and industry, focusing on trust, transparency, and usability in intelligent systems. 
       Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation!
     </div>
-    <div style="flex: 0 0 150px; margin-left: 20px;">
+    <div style="flex: 0 0 350px; margin-left: 20px;">
       <img src="images/Jaji_Headshot.jpg" alt="Jaji Pamarthi" style="width: 100%; border-radius: 50%;">
     </div>
   </div>
@@ -50,7 +50,7 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
+  show_blog: false # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
