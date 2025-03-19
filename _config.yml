@@ -2,12 +2,14 @@ title: Jaji Pamarthi
 author: Jaji Pamarthi
 url: https://jpamarthi6.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
-  create seamless, intuitive, and trust-enhancing user experiences.<br><br>
-  I'm currently persusing my Ph.D. in Industrial Engineering (Human Factors) at University of Massachusetts Amherst, and working as a Rsearch Assitant at Human performance 
-  lab with Dr. Shannon C. Roberts, where I focus on understanding trust and perceptions of autonomous vehicles.<br><br>
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">  
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1; max-width: 60%; font-size: 14px;">
+      I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
+      create seamless, intuitive, and trust-enhancing user experiences.<br><br>
+
+      I'm currently persusing my Ph.D. in Industrial Engineering (Human Factors) at University of Massachusetts Amherst, and working as a Rsearch Assitant at Human performance 
+      lab with Dr. Shannon C. Roberts, where I focus on understanding trust and perceptions of autonomous vehicles.<br><br>
+      
       In Summer 2024, I worked as a UX Research Intern at TORC Robotics, leading stakeholder research, uncovering transparency gaps, and optimizing UX workflows for AV 
       development. My work led to five key process improvements, streamlining operations and enhancing UX strategy. <br><br>
       
