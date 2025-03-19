@@ -7,8 +7,9 @@ description: > # description of the site (multiple lines allowed)
       I'm a researcher and engineer passionate about human-machine interaction, UX strategy, and human-centered design. My work bridges data, design, and strategy to 
       create seamless, intuitive, and trust-enhancing user experiences.<br><br>
 
-      I'm currently pursusing my Ph.D. in Industrial Engineering (Human Factors) at University of Massachusetts Amherst, and working as a Rsearch Assitant at Human performance 
-      lab with Dr. Shannon C. Roberts, where I focus on understanding trust and perceptions of autonomous vehicles.<br><br>
+      I'm currently pursusing my Ph.D. in Industrial Engineering (Human Factors) at University of Massachusetts Amherst, and working as a Rsearch Assitant at 
+      <a href="https://people.umass.edu/scroberts/index.html" target="_blank">Human Performance Lab</a> with <a href="https://www.linkedin.com/in/shannoncroberts/" 
+      target="_blank">Dr. Shannon C. Roberts</a>, where I focus on understanding trust and perceptions of autonomous vehicles.<br><br>
 
     </div>
     <div style="flex: 0 0 350px; margin-left: 20px;">
@@ -16,17 +17,17 @@ description: > # description of the site (multiple lines allowed)
     </div>
   </div>
       
-  In Summer 2024, I worked as a UX Research Intern at TORC Robotics, leading stakeholder research, uncovering transparency gaps, and optimizing UX workflows for AV 
-  development. My work led to five key process improvements, streamlining operations and enhancing UX strategy. <br><br>
+  In Summer 2024, I worked as a UX Research Intern at <a href="https://torc.ai/" target="_blank">TORC Robotics</a>, leading stakeholder research, uncovering transparency 
+  gaps, and optimizing UX workflows for AV development. My work led to five key process improvements, streamlining operations and enhancing UX strategy. <br><br>
       
-  In Fall 2022, I worked as a Quantitative Human-Computer Interaction Research Intern at Motional, conducting mixed-methods research, leveraging Python and R to analyze 
-  user cognition and optimize KPIs for AV usability and trust.<br><br>
+  In Fall 2022, I worked as a Quantitative Human-Computer Interaction Research Intern at <a href="https://motional.com/" target="_blank">Motional</a>, conducting 
+  mixed-methods research, leveraging Python and R to analyze user cognition and optimize KPIs for AV usability and trust.<br><br>
       
-  From 2020 to 2021, I worked as a Research Engineer Co-op at Ahold Delhaize USA, conducting qualitative research with grocery store stakeholders to identify pain 
-  points in automation adoption. <br><br>
+  From 2020 to 2021, I worked as a Research Engineer Co-op at <a href="https://www.adusa.com/" target="_blank">Ahold Delhaize USA</a>, conducting qualitative research 
+  with grocery store stakeholders to identify pain points in automation adoption. <br><br>
       
-  Prior to my PhD, I researched shared autonomy and adaptive human-machine systems under Dr. Jamison Heard at Rochester Institute of Technology, developing 
-  fuzzy-logic-based controllers for workload-adaptive automation. <br><br> 
+  Prior to my PhD, I researched shared autonomy and adaptive human-machine systems under <a href="https://www.rit.edu/directory/jrheee-jamison-heard" 
+  target="_blank">Dr. Jamison Heard</a> at Rochester Institute of Technology, developing fuzzy-logic-based controllers for workload-adaptive automation. <br><br> 
       
   I have contributed to human-centered design in automation across academia and industry, focusing on trust, transparency, and usability in intelligent systems. 
   Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation!
