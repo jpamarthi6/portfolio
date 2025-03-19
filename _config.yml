@@ -7,7 +7,7 @@ description: > # description of the site (multiple lines allowed)
   business impact.<br><br>
 
   At the intersection of data, design, and strategy, I create UX frameworks that enhance engagement, efficiency, and trust in automated systems. Let’s build experiences 
-  that don’t just function—but thrive.<br><br>
+  that don’t just function but thrive.<br><br>
 
   Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation! 
 
@@ -38,9 +38,9 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Projects
     title_misc_list: Details
-    title_blog: Blog
+    title_blog: News
     title_old_projects: Old Projects
 
 soopr:
