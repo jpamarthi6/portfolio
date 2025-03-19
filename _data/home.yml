@@ -1,6 +1,6 @@
 navbar_entries:
   - title: Home
-    url: /
+    url: /portfolio
 
   - title: Ceramics
     url: blog
