@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: 'Future of Trucking: HMI & Automation in Trucking'
-    url: FOT
+    url: overview-post
     desc: Conducted task analysis and research to identify automation opportunities in trucking, shaping HMI design recommendations for improved driver collaboration.
     highlight: WIP
 
