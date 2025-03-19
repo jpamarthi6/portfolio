@@ -56,11 +56,11 @@ old_project_entries:
 personal_entries:
   - title: Personal
     url: 
-    desc: |
-      other_topics:
-      - Designing for Diverse Users: Ensuring inclusive, accessible, and context-aware design in automated systems.
-      - Mentorship Culture: Supporting early-career researchers and fostering interdisciplinary collaboration.
-      - Scientific Communication: Making human factors, UX, and automation research more accessible across disciplines.
+    desc: > # (multiple lines allowed)
+      other_topics:<br><br>
+      - <strong>Designing for Diverse Users:</strong> Ensuring inclusive, accessible, and context-aware design in automated systems.<br><br>
+      - <strong>Mentorship Culture:</strong> Supporting early-career researchers and fostering interdisciplinary collaboration.<br><br>
+      - <strong>Scientific Communication:</strong> Making human factors, UX, and automation research more accessible across disciplines.<br><br>
       I also like making ceramics and photography!
 
 
@@ -71,7 +71,7 @@ footer_entries:
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=eKFlw6gAAAAJ&hl=en
 
-  - title: Email me
+  - title: 'Email: jpamarthi_umass_edu'
     url: mailto:jpamarthi@umass.edu
 
 misc_entries:
