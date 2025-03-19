@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: 'Future of Trucking: HMI & Automation in Trucking'
+permalink: /Rural-AV
 ---
 
 
