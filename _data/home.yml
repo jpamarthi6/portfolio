@@ -6,32 +6,32 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://jpamarthi6.github.io/portfolio/
 
 project_entries:
-  - title: Project 1
+  - title: 'Future of Trucking: HMI & Automation in Trucking'
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Rural Perceptions of Automated Vehicles (AVs)
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Pedestrian Hybrid Beacon (PHB)
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Risk-ATTEND
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Developed and tested an interactive risk anticipation program, improving hazard detection in young drivers.
     highlight: WIP
 
-  - title: Project 5
+  - title: Mental Models of Adaptive Cruise Control
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Investigated trust in Adaptive Cruise Control (ACC) and redesigned onboarding experiences, improving user confidence and adoption.
     highlight: WIP
 
-  - title: Project 6
+  - title: BikeSimulator
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
@@ -54,17 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jyothikapamarthi/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: email me
+    url: mailto:jpamarthi@ucsd.edu
 
 misc_entries:
   - title: this is an example vertical list
