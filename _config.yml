@@ -1,22 +1,24 @@
-title: Moonwalk
+title: Portfolio
 author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://jpamarthi6.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  I'm a researcher and engineer passionate about human-machine interaction and user experience, specializing in UX strategy, research, and human-centered design. With a Ph.D. in Human Factors and experience at Motional and TORC Robotics, I’ve optimized KPIs, uncovered transparency gaps, and streamlined UX workflows to drive business impact.
+
+  At the intersection of data, design, and strategy, I create UX frameworks that enhance engagement, efficiency, and trust in automated systems. Let’s build experiences that don’t just function—but thrive.
+
+  Explore my portfolio to see how I blend research, design, and innovation to shape the future of automation! 
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
