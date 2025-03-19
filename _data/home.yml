@@ -11,29 +11,28 @@ navbar_entries:
 project_entries:
   - title: 'Future of Trucking: HMI & Automation in Trucking'
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Conducted task analysis and research to identify automation opportunities in trucking, shaping HMI design recommendations for improved driver collaboration.
+    highlight: WIP
 
   - title: Rural Perceptions of Automated Vehicles (AVs)
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Led survey research and statistical modeling, uncovering regional differences in trust and adoption of AVs.
 
   - title: Pedestrian Hybrid Beacon (PHB)
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
 
   - title: Risk-ATTEND
     url: overview-post
-    desc: Developed and tested an interactive risk anticipation program, improving hazard detection in young drivers.
-    highlight: WIP
+    desc: Designed a behavior-driven training program, improving hazard detection through simulator testing in young drivers.
 
   - title: Mental Models of Adaptive Cruise Control
     url: overview-post
-    desc: Investigated trust in Adaptive Cruise Control (ACC) and redesigned onboarding experiences, improving user confidence and adoption.
-    highlight: WIP
+    desc: Investigated trust in Adaptive Cruise Control (ACC) and to refine UX strategies for automation onboarding, improving user confidence and adoption.
 
   - title: BikeSimulator
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Developed a virtual reality cycling simulator with Arduino sensors and Unity, enabling research on user behavior and immersive interaction design.
 
 old_project_entries:
   - title: Soopr
@@ -57,8 +56,8 @@ footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/jyothikapamarthi/
 
-  - title: email me
-    url: mailto:jpamarthi@ucsd.edu
+  - title: Email me
+    url: mailto:jpamarthi@umass.edu
 
 misc_entries:
   - title: this is an example vertical list
