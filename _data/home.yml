@@ -10,46 +10,46 @@ navbar_entries:
 
 project_entries:
   - title: 'Future of Trucking: HMI & Automation in Trucking'
-    url: overview-post
+    url: FOT
     desc: Conducted task analysis and research to identify automation opportunities in trucking, shaping HMI design recommendations for improved driver collaboration.
     highlight: WIP
 
   - title: Rural Perceptions of Automated Vehicles (AVs)
-    url: test
+    url: Rural-AV
     desc: Led survey research and statistical modeling, uncovering regional differences in trust and adoption of AVs.
     highlight: WIP
 
   - title: Pedestrian Hybrid Beacon (PHB)
-    url: overview-post
+    url: PHB
     desc: Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
 
   - title: Risk-ATTEND
-    url: overview-post
+    url: Risk-ATTEND
     desc: Designed a behavior-driven training program, improving hazard detection through simulator testing in young drivers.
 
   - title: Mental Models of Adaptive Cruise Control
-    url: overview-post
+    url: Mental-Models
     desc: Investigated trust in Adaptive Cruise Control (ACC) and to refine UX strategies for automation onboarding, improving user confidence and adoption.
 
   - title: BikeSimulator
-    url: overview-post
+    url: BikeSimulator
     desc: Developed a virtual reality cycling simulator with Arduino sensors and Unity, enabling research on user behavior and immersive interaction design.
 
 old_project_entries:
   - title: RA at RIT
-    url: https://www.soopr.co
+    url: Fuzzy-logic
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     # highlight: NEW
 
-  - title: Rit Projects
+  - title: Bio-Robotics
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: POR
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
+  - title: adv robo
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
 
