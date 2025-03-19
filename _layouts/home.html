@@ -46,7 +46,11 @@ layout: default
 
 {% if site.theme_config.show_personal == true %}
   <h2>{{ site.theme_config.home.title_personal }}</h2>
-  {% include card_list.html collection=site.data.home.personal_entries %}
+  <div>
+    {% for entry in site.data.home.personal_entries %}
+      <p>{{ entry.desc | markdownify }}</p>
+    {% endfor %}
+  </div>
 {% endif %}
 
 {% if site.theme_config.show_footer == true %}

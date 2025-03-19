@@ -54,10 +54,10 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 personal_entries:
-  - title: Personal
+  - title: 
     url: 
     desc: > # (multiple lines allowed)
-      other_topics:<br><br>
+      Other topics that I think about:<br><br>
       - <strong>Designing for Diverse Users:</strong> Ensuring inclusive, accessible, and context-aware design in automated systems.<br><br>
       - <strong>Mentorship Culture:</strong> Supporting early-career researchers and fostering interdisciplinary collaboration.<br><br>
       - <strong>Scientific Communication:</strong> Making human factors, UX, and automation research more accessible across disciplines.<br><br>
@@ -71,7 +71,7 @@ footer_entries:
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=eKFlw6gAAAAJ&hl=en
 
-  - title: 'Email: jpamarthi_umass_edu'
+  - title: 'jpamarthi_umass_edu'
     url: mailto:jpamarthi@umass.edu
 
 misc_entries:
