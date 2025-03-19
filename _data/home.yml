@@ -15,7 +15,7 @@ project_entries:
     highlight: WIP
 
   - title: Rural Perceptions of Automated Vehicles (AVs)
-    url: overview-post
+    url: landscape-post
     desc: Led survey research and statistical modeling, uncovering regional differences in trust and adoption of AVs.
     highlight: WIP
 
@@ -56,6 +56,9 @@ old_project_entries:
 footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/jyothikapamarthi/
+
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=eKFlw6gAAAAJ&hl=en
 
   - title: Email me
     url: mailto:jpamarthi@umass.edu
