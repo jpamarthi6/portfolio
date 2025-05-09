@@ -57,10 +57,6 @@ personal_entries:
   - title: 
     url: 
     desc: > # (multiple lines allowed)
-      # Media link 
-      # eno leadership conference
-      # panel with becky
-      # Other topics that I think about:
 
       - <strong>Designing for Diverse Users:</strong> Ensuring inclusive, accessible, and context-aware design in automated systems.
 
@@ -71,6 +67,10 @@ personal_entries:
 
       I also like making ceramics and photography!
 
+    # Media link 
+      # eno leadership conference
+      # panel with becky
+      # Other topics that I think about:
 
 footer_entries:
   - title: LinkedIn
