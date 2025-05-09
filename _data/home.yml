@@ -10,57 +10,57 @@ navbar_entries:
 
 project_entries:
   - title: 'Future of Trucking: HMI & Automation in Trucking'
-    url: fot
-    desc: Conducted task analysis and research to identify automation opportunities in trucking, shaping HMI design recommendations for improved driver collaboration.
+    # url: fot
+    desc: Identifying automation opportunities in trucking using coactive desing process to shaping HMI design recommendations for improved human-automation collaboration. This involved stakeholder feedback and co-active design interactions with truck drivers and automation companies.
     highlight: WIP
 
   - title: Rural Perceptions of Automated Vehicles (AVs)
-    url: rural-av
-    desc: Led survey research and statistical modeling, uncovering regional differences in trust and adoption of AVs.
+    # url: rural-av
+    desc: Dissertation work on uncovering regional differences in trust and adoption of AVs. Using mixed-methods research(survey and interivews, contexual inquiry) to inform design and policy recommendations.
     highlight: WIP
 
   - title: Pedestrian Hybrid Beacon (PHB)
-    url: phb
-    desc: Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
+    # url: phb
+    desc: Surveyed the Compreshesion of different users on Traffic Safety System. Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
 
   - title: Risk-ATTEND
-    url: risk-attend
-    desc: Designed a behavior-driven training program, improving hazard detection through simulator testing in young drivers.
+    # url: risk-attend
+    desc: Designed and validated a training program on Axure RP, improving hazard detection through simulator testing in young drivers.
 
   - title: Mental Models of Adaptive Cruise Control
-    url: mental-models
-    desc: Investigated trust in Adaptive Cruise Control (ACC) and to refine UX strategies for automation onboarding, improving user confidence and adoption.
+    # url: mental-models
+    desc: Investigated trust and mental models of varied-experience users in Adaptive Cruise Control (ACC). Developed differrent training modules to improve user trust and adoption.
 
   - title: BikeSimulator
-    url: bikesimulator
+    # url: bikesimulator
     desc: Developed a virtual reality cycling simulator with Arduino sensors and Unity, enabling research on user behavior and immersive interaction design.
 
-old_project_entries:
-  - title: RA at RIT
-    url: fuzzy-logic
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    # highlight: NEW
+# old_project_entries:
+#   - title: RA at RIT
+#     # url: fuzzy-logic
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     # highlight: NEW
 
-  - title: Bio-Robotics
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Bio-Robotics
+#     # url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: POR
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: POR
+#     # url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: adv robo
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: adv robo
+#     # url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 personal_entries:
   - title: 
     url: 
     desc: > # (multiple lines allowed)
-      Media link 
-      eno leadership conference
-      panel with becky
-      Other topics that I think about:
+      # Media link 
+      # eno leadership conference
+      # panel with becky
+      # Other topics that I think about:
 
       - <strong>Designing for Diverse Users:</strong> Ensuring inclusive, accessible, and context-aware design in automated systems.
 
