@@ -1,4 +1,10 @@
 <ul class="horizontal-list">
+  <style>
+    .card a:active .header,
+    .card a:focus .header {
+      text-decoration: underline;
+    }
+  </style>
   {% for item in include.collection %}
 
     <li class="card">
