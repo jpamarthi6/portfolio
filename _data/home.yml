@@ -24,7 +24,7 @@ project_entries:
     desc: UX Research Internship at TORC Robotics
 
   - title: Evaluating Usability for Remote AV Operators
-    # url: motional
+    url: motional
     desc: Cognitive Task Design & Performance Testing at Motional
 
   - title: Risk-ATTEND- Helping Teen Drivers Anticipate Road Hazards
