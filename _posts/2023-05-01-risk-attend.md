@@ -100,5 +100,5 @@ I led the project from start to finish:
 
 ### Reflection: 
 
-“This was my most interdisciplinary leadership project. If I were to do it again, I’d add a follow-up phase to measure real-world driving impact.”
+“This was first research project I led. If I were to do it again, I’d add a follow-up phase to measure real-world driving impact and automated the data analysis process more.”
 
