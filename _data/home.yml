@@ -28,7 +28,7 @@ project_entries:
     desc: Cognitive Task Design & Performance Testing at Motional
 
   - title: Risk-ATTEND- Helping Teen Drivers Anticipate Road Hazards
-    # url: risk-attend
+    url: risk-attend
     desc: Designed and validated a training program on Axure RP, improving hazard detection through simulator testing in young drivers
 
 
