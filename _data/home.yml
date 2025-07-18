@@ -20,11 +20,11 @@ project_entries:
     highlight: WIP
 
   - title: Operational Transparency & UX Strategy for Autonomous Trucking
-    # url: mental-models
+    url: torc
     desc: UX Research Internship at TORC Robotics
 
   - title: Evaluating Usability for Remote AV Operators
-    # url: mental-models
+    # url: motional
     desc: Cognitive Task Design & Performance Testing at Motional
 
   - title: Risk-ATTEND- Helping Teen Drivers Anticipate Road Hazards
