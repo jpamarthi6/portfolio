@@ -12,13 +12,13 @@ navbar_entries:
 education_entries:
   - title: 'Ph.D. in Human Factors Engineering'
     # url: umass
-    desc: University of Massachusetts Amherst, 2025 
+    desc: University of Massachusetts Amherst, Amherst MA, 2025 
   - title: 'M.S. in Electrical Engineering'
     # url: rit
-    desc: Rochester Institute of Technology, 2020
+    desc: Rochester Institute of Technology, Rochester NY, 2020
   - title: 'B.Tech. in Electronics and Communication Engineering'
     # url: 
-    desc: VNR VJIET, Hyderabad, 2018
+    desc: VNR VJIET, Hyderabad, India, 2018
 
 
 project_entries:
