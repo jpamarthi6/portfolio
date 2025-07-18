@@ -8,6 +8,19 @@ navbar_entries:
   - title: Photography
     url: photo
 
+
+education_entries:
+  - title: 'Ph.D. in Human Factors Engineering'
+    # url: umass
+    desc: University of Massachusetts Amherst, 2025 
+  - title: 'M.S. in Electrical Engineering'
+    # url: rit
+    desc: Rochester Institute of Technology, 2020
+  - title: 'B.Tech. in Electronics and Communication Engineering'
+    # url: 
+    desc: VNR VJIET, Hyderabad, 2018
+
+
 project_entries:
   - title: 'Designing Task-Centered HMI Strategies for Human-AI Collaboration'
     url: fot
@@ -30,25 +43,6 @@ project_entries:
   - title: Risk-ATTEND- Helping Teen Drivers Anticipate Road Hazards
     url: risk-attend
     desc: Designed and validated a training program on Axure RP, improving hazard detection through simulator testing in young drivers
-
-
-# old_project_entries:
-#   - title: RA at RIT
-#     # url: fuzzy-logic
-#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-#     # highlight: NEW
-
-#   - title: Bio-Robotics
-#     # url: https://github.com/abhinavs/cookie
-#     desc: An open source landing website with supporting pages and integrated blog
-
-#   - title: POR
-#     # url: https://github.com/abhinavs/moonwalk
-#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-#   - title: adv robo
-#     # url: https://www.humangous.co
-#     desc: The better people know you, the better they collaborate
 
 personal_entries:
   - title: 
