@@ -9,31 +9,28 @@ navbar_entries:
     url: photo
 
 project_entries:
-  - title: 'Future of Trucking: HMI & Automation in Trucking'
-    # url: fot
-    desc: Identifying automation opportunities in trucking using coactive desing process to shaping HMI design recommendations for improved human-automation collaboration. This involved stakeholder feedback and co-active design interactions with truck drivers and automation companies.
+  - title: 'Designing Task-Centered HMI Strategies for Human-AI Collaboration'
+    url: fot
+    desc: Identifying HMI design needs in trucking using coactive desing process to improve human-automation collaboration
     highlight: WIP
 
-  - title: Rural Perceptions of Automated Vehicles (AVs)
+  - title: Building Trust in Autonomous Vehicles in Rural America
     # url: rural-av
-    desc: Dissertation work on uncovering regional differences in trust and adoption of AVs. Using mixed-methods research(survey and interivews, contexual inquiry) to inform design and policy recommendations.
+    desc: Dissertation work on uncovering perceptions of AVs. Using mixed-methods research(survey and interviews) to inform design and policy recommendations
     highlight: WIP
 
-  - title: Pedestrian Hybrid Beacon (PHB)
-    # url: phb
-    desc: Surveyed the Compreshesion of different users on Traffic Safety System. Analyzed survey and behavioral data to assess and improve driver understanding of traffic safety systems.
-
-  - title: Risk-ATTEND
-    # url: risk-attend
-    desc: Designed and validated a training program on Axure RP, improving hazard detection through simulator testing in young drivers.
-
-  - title: Mental Models of Adaptive Cruise Control
+  - title: Operational Transparency & UX Strategy for Autonomous Trucking
     # url: mental-models
-    desc: Investigated trust and mental models of varied-experience users in Adaptive Cruise Control (ACC). Developed differrent training modules to improve user trust and adoption.
+    desc: UX Research Internship at TORC Robotics
 
-  - title: BikeSimulator
-    # url: bikesimulator
-    desc: Developed a virtual reality cycling simulator with Arduino sensors and Unity, enabling research on user behavior and immersive interaction design.
+  - title: Evaluating Usability for Remote AV Operators
+    # url: mental-models
+    desc: Cognitive Task Design & Performance Testing at Motional
+
+  - title: Risk-ATTEND- Helping Teen Drivers Anticipate Road Hazards
+    # url: risk-attend
+    desc: Designed and validated a training program on Axure RP, improving hazard detection through simulator testing in young drivers
+
 
 # old_project_entries:
 #   - title: RA at RIT
